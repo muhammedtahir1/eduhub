@@ -1,0 +1,14 @@
+{
+  "name": "eduhub_all",
+  "version": "1.0.0",
+  "description": "It a student management system with features to views all students, remove them, edit them and add students and much more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
